@@ -1,5 +1,5 @@
-# simple-multisig
-Simple multisig for Ethereum using detached signatures
+# Multisig Wallet for TripPay(TCH)
+Proposed Multisig for TripPay(TCH) using detached signatures
 
 This is an Ethereum multisig contract designed to be as simple as possible. It is described further in this [medium post](https://medium.com/@ChrisLundkvist/exploring-simpler-ethereum-multisig-contracts-b71020c19037).
 
